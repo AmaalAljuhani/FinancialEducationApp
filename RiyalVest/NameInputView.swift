@@ -79,7 +79,7 @@ struct NameInputView: View {
         }
     }
 }
-
+//Task 62 start  " Implement the Splash Screen with the Logo" 
 // شاشة السبلاش
 struct SplashScreen: View {
     var body: some View {
